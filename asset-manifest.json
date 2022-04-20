@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6654a445.css",
-    "main.js": "/static/js/main.a11f547d.js",
-    "index.html": "/index.html",
-    "main.6654a445.css.map": "/static/css/main.6654a445.css.map",
-    "main.a11f547d.js.map": "/static/js/main.a11f547d.js.map"
+    "main.css": "/louvre/static/css/main.6654a445.css",
+    "main.js": "/louvre/static/js/main.a11f547d.js",
+    "index.html": "/louvre/index.html",
+    "main.6654a445.css.map": "/louvre/static/css/main.6654a445.css.map",
+    "main.a11f547d.js.map": "/louvre/static/js/main.a11f547d.js.map"
   },
   "entrypoints": [
     "static/css/main.6654a445.css",
