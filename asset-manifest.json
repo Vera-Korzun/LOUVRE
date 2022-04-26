@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/louvre/static/css/main.7d6fe3c4.css",
-    "main.js": "/louvre/static/js/main.10ed3ee3.js",
+    "main.js": "/louvre/static/js/main.751b4eff.js",
     "static/media/Forum-Regular.ttf": "/louvre/static/media/Forum-Regular.6b8e836eb36b2f54db9a.ttf",
     "static/media/Roboto-Medium.ttf": "/louvre/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
     "static/media/Roboto-Thin.ttf": "/louvre/static/media/Roboto-Thin.1711b41f3ae4cb322eea.ttf",
@@ -10,10 +10,10 @@
     "static/media/frame.svg": "/louvre/static/media/frame.6fb7d0637f5a8839e4d3447753e2fcdd.svg",
     "index.html": "/louvre/index.html",
     "main.7d6fe3c4.css.map": "/louvre/static/css/main.7d6fe3c4.css.map",
-    "main.10ed3ee3.js.map": "/louvre/static/js/main.10ed3ee3.js.map"
+    "main.751b4eff.js.map": "/louvre/static/js/main.751b4eff.js.map"
   },
   "entrypoints": [
     "static/css/main.7d6fe3c4.css",
-    "static/js/main.10ed3ee3.js"
+    "static/js/main.751b4eff.js"
   ]
 }
