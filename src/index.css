@@ -1,0 +1,106 @@
+:root {
+  --text-white: #FFFFFF;
+  --text-black: #000000;
+  --dark-red: #710707;
+  --bg-dark: #030303;
+  --font-gold: #9d8665;
+}
+
+body {
+  margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 1.18;
+    letter-spacing: 2px;
+    color: var(--text-white);
+  font-family: -apple-system, BlinkMacSystemFont,'Roboto', "Forum",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  overflow: hidden;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media screen and (min-width: 420px) {
+  .container {
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 768px;
+
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .container {
+    width: 1024px;
+
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .container {
+    width: 1440px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0 auto;
+  }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
