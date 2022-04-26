@@ -1,6 +1,6 @@
 import React from "react";
 import LogoStyled from "./LogoStyled";
-import logo from "./images/frame.svg";
+import logo from "../images/frame.svg";
 
 const Logo = () => {
   return (
