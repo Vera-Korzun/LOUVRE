@@ -7,9 +7,11 @@ import HeaderStyled from "./HeaderStyled";
 
 const Header = () => {
   return (
-    <HeaderStyled className="container">
-      <Logo />
-      <Navigation />
+    <HeaderStyled>
+      <div className="container header-container">
+        <Logo />
+        <Navigation />
+      </div>
     </HeaderStyled>
   );
 };
