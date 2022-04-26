@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/louvre/static/css/main.6654a445.css",
-    "main.js": "/louvre/static/js/main.a11f547d.js",
+    "main.css": "/louvre/static/css/main.4cd1e0ac.css",
+    "main.js": "/louvre/static/js/main.2e89a395.js",
+    "static/media/frame.svg": "/louvre/static/media/frame.6fb7d0637f5a8839e4d3447753e2fcdd.svg",
     "index.html": "/louvre/index.html",
-    "main.6654a445.css.map": "/louvre/static/css/main.6654a445.css.map",
-    "main.a11f547d.js.map": "/louvre/static/js/main.a11f547d.js.map"
+    "main.4cd1e0ac.css.map": "/louvre/static/css/main.4cd1e0ac.css.map",
+    "main.2e89a395.js.map": "/louvre/static/js/main.2e89a395.js.map"
   },
   "entrypoints": [
-    "static/css/main.6654a445.css",
-    "static/js/main.a11f547d.js"
+    "static/css/main.4cd1e0ac.css",
+    "static/js/main.2e89a395.js"
   ]
 }
